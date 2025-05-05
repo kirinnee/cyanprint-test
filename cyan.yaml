@@ -1,0 +1,10 @@
+username: kirinnee
+name: test
+description: Testing Template
+project: https://github.com/kirinnee/cyanprint-test
+source: https://github.com/kirinnee/cyanprint-test
+email: kirinnee97@gmail.com
+tags: ["test"]
+readme: cyan/README.MD
+processors: ["cyan/default"]
+plugins: []

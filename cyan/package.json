@@ -1,0 +1,15 @@
+{
+  "name": "template",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^1.2.12"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@atomicloud/cyan-sdk": "^2.0.0",
+    "oxlint": "^0.16.9"
+  }
+}
