@@ -26,13 +26,13 @@ StartTemplateWithLambda(
       "The age of the template",
     );
 
-    const food = await i.checkbox(
+    const food = await i.select(
       "Food",
       ["Pizza", "Burger", "Salad", "Noodles", "Sushi", "Pasta"],
       "kirinnee/test/food",
       "The food to use for the template",
     );
-    const colors = await i.checkbox(
+    const colors = await i.select(
       "Colors",
       ["Red", "Blue", "Green", "Yellow", "Purple", "Orange"],
       "kirinnee/test/colors",
