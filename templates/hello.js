@@ -18,6 +18,16 @@ function goodbye() {
     // var___= }___
 }
 
-hello();
+function bark() {
+    console.log("Woof!");
+}
+
+function meow() {
+    console.log("Meow!");
+}
+
+
+
 goodbye();
+hello();
 
