@@ -63,9 +63,9 @@ StartTemplateWithLambda(
             vars,
             parser: {
               varSyntax: [
-                ["let___", "___"],
-                ["var___", "___"],
                 ["// var___", "___"],
+                ["var___", "___"],
+                ["let___", "___"],
                 ["<%", "%>"],
               ],
             },
